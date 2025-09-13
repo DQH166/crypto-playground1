@@ -1,4 +1,4 @@
-```
+``
 # 🔐 Crypto Playground1
 A collection of small cryptography projects implemented from scratch in Python.  
 This repository demonstrates both basic cryptographic algorithms and realistic attack scenarios, aiming to bridge the gap between theory and practice.
@@ -15,10 +15,10 @@ crypto-playground1/
 ---
 
 ## 🚀 Quick Start
-# Run basic RSA demo
+### Run basic RSA demo
 python rsa/rsa_basic.py
 
-# Run Hastad's broadcast attack demo
+### Run Hastad's broadcast attack demo
 python rsa/rsa_hastad_attack.py
 
 ---
