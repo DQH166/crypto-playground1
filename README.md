@@ -8,7 +8,7 @@ crypto-playground1/
 │ ├── rsa_basic.py # Basic RSA implementation (keygen, encrypt, decrypt)
 │ └── rsa_hastad_attack.py # Hastad's broadcast attack demo
 └── README.md
-
+---
 ## 🚀 Quick Start
 ```bash
 # Run basic RSA demo
