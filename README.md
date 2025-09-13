@@ -6,11 +6,11 @@ This repository demonstrates both basic cryptographic algorithms and realistic a
 ---
 
 ## 📁 Project Structure
-crypto-playground1/
-├── rsa/
-│   ├── rsa_basic.py           # Basic RSA implementation (keygen, encrypt, decrypt)
-│   └── rsa_hastad_attack.py   # Hastad's broadcast attack demo
-└── README.md
+ crypto-playground1/
+ ├── rsa/
+ │   ├── rsa_basic.py           # Basic RSA implementation (keygen, encrypt, decrypt)
+ │   └── rsa_hastad_attack.py   # Hastad's broadcast attack demo
+ └── README.md
 
 ---
 
