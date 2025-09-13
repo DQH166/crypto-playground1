@@ -1,4 +1,4 @@
-`
+``
 # 🔐 Crypto Playground1
 A collection of small cryptography projects implemented from scratch in Python.  
 This repository demonstrates both basic cryptographic algorithms and realistic attack scenarios, aiming to bridge the gap between theory and practice.
@@ -24,7 +24,7 @@ python rsa/rsa_hastad_attack.py
 ---
 
 ## 📌 Future Work
- AES implementation
- ECC implementation
- CTF writeups
+  AES implementation
+  ECC implementation
+  CTF writeups
 ```
