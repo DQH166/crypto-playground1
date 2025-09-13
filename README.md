@@ -17,5 +17,5 @@ python rsa/rsa_basic.py
 python rsa/rsa_hastad_attack.py
 ---
 
-<b>## **📌 Future Work**<b>
+<b>## **📌 Future Work**</b>
 AES, ECC, CTF writeups...
