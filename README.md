@@ -1,6 +1,6 @@
 
 # 🔐 Crypto Playground1
-A collection of small cryptography projects implemented from scratch in Python.
+A collection of small cryptography projects implemented from scratch in Python. 
 This repository demonstrates both basic cryptographic algorithms and realistic attack scenarios, aiming to bridge the gap between theory and practice.
 
 ---
