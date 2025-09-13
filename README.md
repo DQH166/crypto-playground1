@@ -20,8 +20,9 @@ python rsa/rsa_basic.py
 python rsa/rsa_hastad_attack.py
 
 ---
+
 ## 📌 Future Work
-```bash
-AES implementation
-ECC implementation
-CTF writeups
+- AES implementation
+- ECC implementation
+- CTF writeups
+
