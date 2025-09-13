@@ -15,16 +15,16 @@ crypto-playground1/
 ---
 
 ## 🚀 Quick Start
-# Run basic RSA demo
+### Run basic RSA demo
 python rsa/rsa_basic.py
 
-# Run Hastad's broadcast attack demo
+### Run Hastad's broadcast attack demo
 python rsa/rsa_hastad_attack.py
 
 ---
 
 ## 📌 Future Work
-# AES implementation
-# ECC implementation
-# CTF writeups
+ AES implementation
+ ECC implementation
+ CTF writeups
 ```
