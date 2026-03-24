@@ -25,8 +25,7 @@ cryptoHack-playground/
 │   └── PrimeandPrejudice.py 
 
 ├── Lattics/                                
-│   ├── QuadraticResidues.py
-│   └── Vectors.py   
+│   ├── Vectors.py           
 │   └── SizeandBasis.py  
 │   └── GramSchmidt.py   
 │   └── What'saLattics?.py  
