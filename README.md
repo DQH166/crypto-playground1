@@ -24,7 +24,7 @@ cryptoHack-playground/
 │   └── RealEisenstein.py  
 │   └── PrimeandPrejudice.py 
 
-├── Lattics/
+├── Lattics/ 
 │   └── Vectors.py   
 │   └── SizeandBasis.py  
 │   └── GramSchmidt.py   
